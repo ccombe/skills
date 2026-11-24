@@ -1,0 +1,3 @@
+interface:
+  display_name: "Transcribe Video"
+  short_description: "Extract MP3 and transcribe video recordings"
