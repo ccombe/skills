@@ -36,5 +36,6 @@ All upstream skill repositories used alongside this collection:
 | **Bombadil Skills** | https://github.com/unhinged-mochi/bombadil-skills | Property-based testing and autonomous fuzzing for web apps (`bombadil-browser`) and CLIs/TUIs (`bombadil-terminal`) with Antithesis Bombadil. |
 | **Cloudflare Security Audit** | https://github.com/cloudflare/security-audit-skill | Structured security review and vulnerability-hunting methodology (`security-audit`) across auth, web protocols, cloud, supply chain, and AI/LLM surfaces. |
 | **Gridlines** | https://github.com/pritamux/gridlines | UI alignment and optical spacing audit skill (`gridlines`) for sidebars, toolbars, panels, dialogs, and tables. |
+| **Caldo Skills** | https://github.com/caldoai/skills | Codebase cleanup and test-suite hygiene skills (`prune-tests` to remove tests guarding no behavior, `untangle-codebase` to simplify architecture in one pass). |
 | **OpenClaw** | https://github.com/openclaw/openclaw | Selective skills from OpenClaw (e.g., `test-audit`). |
 | **Vercel Skills CLI** | https://github.com/vercel-labs/skills | Skill discovery helper (`find-skills`) and the `npx skills` CLI installer/updater. |
